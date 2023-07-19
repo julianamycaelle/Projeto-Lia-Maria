@@ -2,7 +2,7 @@
 
 Neste projeto você foi convidado a desenvolver um site para a modelo LIA MARIA,
 para isso os arquivos e imagens necessários estão em anexo. <br>
-O site obrigatoriamente deve conter:
+O site obrigatoriamente deve conter:<br>
 --> Uma página principal com menu;
 --> Uma página de biografia;
 --> Uma página com campanhas publicitárias, onde deve conter algumas imagens da modelo. 
