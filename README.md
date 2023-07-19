@@ -1,7 +1,7 @@
 # Projeto-Lia-Maria
 
 Neste projeto você foi convidado a desenvolver um site para a modelo LIA MARIA,
-para isso os arquivos e imagens necessários estão em anexo. \n
+para isso os arquivos e imagens necessários estão em anexo. <br>
 O site obrigatoriamente deve conter:
 --> Uma página principal com menu;
 --> Uma página de biografia;
