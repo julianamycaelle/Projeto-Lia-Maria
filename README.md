@@ -9,7 +9,7 @@ O site obrigatoriamente deve conter:<br>
 --> Uma página com campanhas publicitárias, onde deve conter algumas imagens da modelo. <br>
 --> Imagem de fundo no site;<br>
 --> Uma página de contato.<br>
-
+<hr>
 Todos os dados devem ser ficticios, então crie as informações que desejar sobre LIA MARIA.
 Você também pode utilizar o texto Loren ipsun nos espaços que deve ser colocados o texto. 
 
